@@ -1,0 +1,16 @@
+vue全家桶：vue vue-router vuex mint-ui vue-lazyload vue-scroller 
+滑动库：vue-scroller better-scroll swiper 
+日期处理：moment date-fns
+mock数据：mockjs
+接口测试：postman
+ajax请求：axios  vue-resource
+模块化：es6 babel
+项目构建/工程化：webpack构建 vue-cli工程
+
+
+git版本控制步骤
+本地仓库生成
+1、 git init
+2、 git add *
+3、 git commit -m "init gshop"
+创建远程仓库
